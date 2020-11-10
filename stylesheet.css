@@ -4,9 +4,10 @@
 }
 
 p{
-    color:red;
+    font-weight: bold;
     text-align: center;
     margin: 0;
+    font-size: 30px;
 }
 
 .main {
@@ -119,15 +120,66 @@ p{
     width: 100vw;
 }
 
+#upper-4{
+    font-weight: bold;
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
 #box-4 li {
     list-style: none;
     text-align: center;
     font-size: 30px;
+    margin: 15px 15px 15px 15px;
 
 }
 
-#upper-4{
-    font-weight: bold;
-    font-size: 40px;
-    margin-bottom: 20px;
+#box-5 {
+    background-image: url("https://uc0ec8fe8a887713cfbdc402091f.previews.dropboxusercontent.com/p/thumb/AA8QS3zhOcfs_zCls7YKQRs8SQdXNsOzazhfd2g5B89TpBQosOsFK0sx3EicbWhD2lK5Qak5lIwrkxTn4q5sZBeTL1xfGq9AnbqlCuo_BxCT401Gj_Bs1gFfboPftTOheVKnSYJNzTWyOURRq2nNbpAyyrLQ8BPm87wlE2-vjxX-oxZGjpR26x2viAxU3kKewAfrw2xCUUcp3nY_rvUFpdjmK2uqPHhVT_ZVgteBmP5geLDPWjl9Iwb6pcxeoZpqrFefXhU-zsSKX0TCaKM0JfK2Qv909uZEV5soui1XtOqsgK49GIiu4mhasIJ-okNuu-R8jqOdsxpacO0u-cYOzhL9DzA_PG6IT__Ek27RmVAPKA/p.jpeg?fv_content=true&size_mode=5");
+    background-size: cover;
+    height: 100vw;
+    width: 100vw;
+}
+
+#box-6 {
+    background-image: url("https://ucde9c5a09015bbb5d7c38ec1066.previews.dropboxusercontent.com/p/thumb/AA9lLC0722IuTtfHjUwUGMBg4M3LWgdlYAuDahVsF_yb5B6ch4Nm-e6qNpv-disFCA70eNYsmHXpoY5PDIh9aJT6jK59vBZO5XjEVZYFR_qLZaCNZqkXGDqt_wZfbsC01uXUPvOiazg7H4JAJkUAzkKXCDZsZ7IFeB0KY3EIU8zflbzZylXIv826ZhS_p4uLE1DD0XL3sbbzD0GnUKfsKZUIuOKRWvmqxcSDwi-5Up8Vz1THd52TpOq3poY-fmm-6-dV4zCLz0LnmExiKl4yiEKXKKXsRdcVChCLG_I077MxaQ5ZsQHeU8nkqNX6yqKKvrNHz2TCrlHX-IeKKYAsepNjww8FA53f_bsaWUymV7cWnw/p.jpeg?fv_content=true&size_mode=5");
+    background-size: cover;
+    height: 100vw;
+    width: 100vw;
+}
+
+#box-7 {
+    background-image: url("https://uc83e3f4e1f2abd1ec843b28efc2.previews.dropboxusercontent.com/p/thumb/AA-S_1xgWrbvBHc6iDH_gIhntiXci6IOZyKpHVvbnL9Vry0hmw3BHwwS9fGBqQopDZv53T3_Y5FsHRBIh7_p6864EMD2ZXLHxJjF55mH5B9-ruPXpqSTBrcGmQxZVNHj969rfIe_d60KgZ1xAzO58EZgWZhogQ0LXui-aN4G7xh7xIoiaSGI6tQyAv5hSmYCeAceGRg3rcDkZTP5nHa7lh2PwjPb3cINYWmvBUZmfciJBL05ZxJgKhIDNv7PTHPS4wEAajOp8yum1UMCZztExCwPHCPTlq1ev7Rizf5vpWJvEWnwz8If-no3N5LkLVKsJykJriEs7yuP7PNN5QgOxPGEbzgn369rkv08Gfi13BHzRg/p.jpeg?fv_content=true&size_mode=5");
+    background-size: cover;
+    height: 100vw;
+    width: 100vw;
+}
+
+#box-8 {
+    background-image: url("https://uc258f2a768dbb23d991d06dfa13.previews.dropboxusercontent.com/p/thumb/AA_LE_qQJyM2kX9NdOb12EbnIvd6a4awuXZ2UVRLxFeJ0cCspBIijFhOK-dNwSVlndP2kADAIJGW7qfBH5bg0J3lL46fdVheStL2MtbPIIaENqqU553KgrX__XNvbUGpuSgkd1kcE8h5tzvwBUtkDSLNjeRbR54Y5T-T6PqQblELNYbFOJYWMNluQQm8nCT_ULVPoWi_-fPo-bcFwBX-vpQ_I-gB7Q1w-sg0xei69q3LY0-MBgxWROoERZDt9sCIQpVI-yV-riJBx7ITDAZFvmmkV78i_VFatS5zwTJECyjxCwe70bVfstumuxDBxseFuaK_O2IMuNkHMOIcZqSzOSGna2w61BcNwUp5-P-pZDbX4w/p.jpeg?fv_content=true&size_mode=5");
+    background-size: cover;
+    height: 100vw;
+    width: 100vw;
+}
+
+#box-9 {
+    background-image: url("https://ucafdf2fc0aa27a0a6ddb6c8730a.previews.dropboxusercontent.com/p/thumb/AA_OfiInnqXD1jaJv8BOiy-EXtDbzLUz7yCy_WNM4igS2_C9b8redj7JR76t17WoBBvVN4d9T9EPiesLCkphJth_NhLCYXCR2XsHXEb9znwqO9of_GtgQ6JknAjGb353eVHZ4scqJfXiGslPIxYErSx5p-7UT-rdBJAiRS4l9_-yY8B6WrSjlN3OgAMggATgZkBzYuhVYwFJER2WOMsSVfmkCNFaZXcDMCtd0G8RySelf6DMiTqA87pZGmiT-DB15K8pEa2VC2Q74anp8kfyqXxGOaQbg1eDSqr1dGFyrqywBLPRr0d8gJ0IT5FvmwW2XpGy7Vt0UZGBnXuM2yKQtqwmhgaMbt5-DBIfDs5b6pMU8w/p.jpeg?size=1024x768&size_mode=3");
+    background-size: cover;
+    height: 100vw;
+    width: 100vw;
+}
+
+#inner-picture{
+    background-image: url("https://ucf994c2dfdf3e62a6dea6534e42.previews.dropboxusercontent.com/p/thumb/AA9KiUL0jAekjXKzdvTPvpkLbhW188nrCbd8ogmDgy7e_mgKHgULVUzo9HjumDlKw3j9FDIiITBg7mqhbQHkG0T6hhvDooRwpHstNyBDpUnWl4Mn2WATCsGNixWKmsa85lw45Ak91E3ztuD1cn2JZBv5pWcppdc0ElinER2IYhOQNLnMo4CbsUMkmkqJhdfVA33mzJrqU1UkHtQAK6Vq2AX9nr-GqwKpeTvEE3Dz_D6FGBbEgrPLk3dbG0eCHhl68BgbLwVwU_-iFDJxbG4ZeecWnql_iIo3v7CJQxl-t9duth-6lXqUWFJSQMtYuZXkKMSmgt9kou0wneC8ZGsclLhPQM6O7M3Jw2h-wpzfSCLFjg/p.png?fv_content=true&size_mode=5");
+    background-size: cover;
+    height: 40vw;
+    width: 100vw;
+}
+
+.product-description{
+    list-style: none;
+}
+
+.prices {
+    list-style: none;
 }
