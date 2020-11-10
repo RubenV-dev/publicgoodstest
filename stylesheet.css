@@ -1,0 +1,17 @@
+.main {
+    background: black;
+    color: blue;
+}
+.card {
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+}
+
+.card ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#box-1 {
+    color: blue;
+}
