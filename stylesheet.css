@@ -1,6 +1,13 @@
+.body {
+    min-width: 100%;
+    min-height: 100%;
+}
+
 .main {
     background: black;
     color: blue;
+    min-width: 100%;
+    min-height: 100%;
 }
 .card {
     width: 100%;
@@ -13,5 +20,7 @@
 }
 
 #box-1 {
+    background-image: url("https://uc7b668f488aca56ce705ae747a1.previews.dropboxusercontent.com/p/thumb/AA8XJQiaRycN3xomSBlVrB3_WE1cojsViKLKfCZF5WRD4UrUY9iH_xLHJHo4Twy2s5B61Zg_nrzZzlWxbsjNYEVH6Rr_qX0RQU9eqUIevr0kgT-ufrTPngti8Ns4wnN15FNsucWNmVTC76GxTkXS5eAiBeQiMJ7p6rXs90Y6BvdF6WUigpdMPW7AzAD0wUS-BqaHpCLn1dU65_csOssI9AM5IyATBhwraJI9DE4vZAuOtTaDD7uHCxxE2Ya1OpEyDQiR1Rjf3cBFtsoJAKPrhuRw06gnD_XbmXdVZNxphaXJI1M4og46ueInmXTgsp3xHDye29seDKjuOQXVBY4Pn2hPo7Rpcy5j7QkXgYFmzzCOxQ/p.jpeg?fv_content=true&size_mode=5");
+    background-size: cover;
     color: blue;
 }
